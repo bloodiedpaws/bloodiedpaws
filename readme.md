@@ -1,20 +1,5 @@
-```zsh
-> fastfetch
 ```
-
-```csharp
-bloodypaws@github
--------------------------
-OS: Arch Linux x86_64
-Shell: zsh 5.8
-Location: Finland
-Languages: HTML, CSS, JavaScript,
-          Python
-Learning: Java, C, C++,
-          C#, Rust
-Telegram: @bloodiedkatana
-```
-
+ssh @127.0.0.1:~$ cat readme.md
                 _                       
                 \`*-.                   
                  )  _`-.                
@@ -29,4 +14,6 @@ Telegram: @bloodiedkatana
                   :  '  |    ;       ;-.
                   ; '   : :`-:     _.`* ;
          [bug] .*' /  .*' ; .*`- +'  `*'
-               `*-*   `*-*  `*-*'       
+               `*-*   `*-*  `*-*'                 
+``` 
+
