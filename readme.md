@@ -35,6 +35,8 @@ ssh @127.0.0.1:~$ cat readme.md
 
 ![Telegram](https://img.shields.io/badge/Telegram-000000?style=flat&logo=telegram&logoColor=white)
 
+<script src="https://tryhackme.com/badge/2810745"></script>
+
 
 
 
